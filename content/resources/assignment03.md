@@ -2,8 +2,13 @@
 content_type: resource
 description: This assignment asks the student to specify a steel column/beam combination
   that accommodates the load as shown in the handout.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-463-building-technology-iii-building-structural-systems-fall-2004/cd15311fb7bf9cc739be348a92e69e08_assignment03.pdf
+file: /media/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/cd15311fb7bf9cc739be348a92e69e08_assignment03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Assignment 3
 uid: cd15311f-b7bf-9cc7-39be-348a92e69e08
