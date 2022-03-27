@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8b94ad0f-1e2d-f7ca-753e-5fc25fab6ea0
 resourcetype: Document
 title: 'Integration: Structure and Envelope'
 uid: 694e98b2-d4c6-b517-e7c0-dc962584ce4a
