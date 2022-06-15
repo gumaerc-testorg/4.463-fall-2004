@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on recommended texts for the course
+  and readings assigned for each week of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

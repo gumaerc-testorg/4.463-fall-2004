@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides interactive demonstrations on basic principles
+  of structural behavior.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
