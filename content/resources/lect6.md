@@ -6,6 +6,7 @@ file: /courses/4-463-building-technology-iii-building-structural-systems-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Integration: Structure and Envelope'
 uid: 694e98b2-d4c6-b517-e7c0-dc962584ce4a
 ---
 Lecture presentation in two parts. Topics covered include: Integration Principles, Structure and the Exterior Envelope, and Integration Case Studies.
-

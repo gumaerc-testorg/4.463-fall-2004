@@ -5,6 +5,7 @@ file: /courses/4-463-building-technology-iii-building-structural-systems-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Connections
 uid: 4e085244-ed6d-8d9a-db89-d3557f1be9c2
 ---
 Lecture presentation on connection design.
-
