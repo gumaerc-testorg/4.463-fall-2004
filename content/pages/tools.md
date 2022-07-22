@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides interactive demonstrations on basic principles
+  of structural behavior.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 0f873a88-d05b-585b-777c-ac137cb462a4
 ---

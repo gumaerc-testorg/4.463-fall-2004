@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on recommended texts for the course
+  and readings assigned for each week of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 05910d26-9936-45c7-1899-16887db1fb16
 ---
