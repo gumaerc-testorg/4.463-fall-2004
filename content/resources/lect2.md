@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on connection design.
 file: /courses/4-463-building-technology-iii-building-structural-systems-fall-2004/4e085244ed6d8d9adb89d3557f1be9c2_lect2.pdf
+file_size: 800311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
