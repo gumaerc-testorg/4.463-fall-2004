@@ -46,7 +46,7 @@ Readings
 Skin and Bones: Evolution and Innovation
 {{< tdclose >}}
 {{< tdopen >}}
-Bradshaw, Richard, David Campbell, Mousa Gargari, Amir Mirmiran, and Patrick Tripeny. "Special Structures: Past, Present, and Future." _Journal of Structural Engineering_ (June 2002): 691-709. Roe, Jose M., and James T. P. Yao. "State of the Art of Structural Engineering." _Journal of Structural Engineering_. (August 2002): 965-975. Edwards, K. L. "Technology Transfer in Engineering Design: A Materials Joining Consideration." _Materials & Design_ 18, no. 3 (1997): 21-126. Lstiburek, Joseph. "Air Pressure and Building Envelopes." Building Science Corporation, Westford, MA. ({{% resource_link "2633b691-e9ff-4cff-826a-7877594e21f6" "PDF" %}})
+Bradshaw, Richard, David Campbell, Mousa Gargari, Amir Mirmiran, and Patrick Tripeny. "Special Structures: Past, Present, and Future." _Journal of Structural Engineering_ (June 2002): 691-709. Roe, Jose M., and James T. P. Yao. "State of the Art of Structural Engineering." _Journal of Structural Engineering_. (August 2002): 965-975. Edwards, K. L. "Technology Transfer in Engineering Design: A Materials Joining Consideration." _Materials & Design_ 18, no. 3 (1997): 21-126. Lstiburek, Joseph. "Air Pressure and Building Envelopes." Building Science Corporation, Westford, MA. ([PDF](http://www.buildingscience.com/documents/reports/rr-9905-air-pressure-and-building-envelopes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Bradshaw, Richard, David Campbell, Mousa Gargari, Amir Mirmiran, and Patrick Tri
 Skin and Bones: Evolution and Innovation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ruth, Matthias, and Paolo Dell' Anno. "An Industrial Ecology of the US Glass Industry." _Resources Policy_ 23 (1997): 109-124. Fisher-Cripps, Anthony C., and Richard E. Collins. "Architectural Glazings: Design Standards and Failure Models." _Building and Environment_ 30, no. 1 (1995): 29-40. Walker, John R. "A Cladding Designers Perspective on the Use of Safety Glass in Curtainwall." _Glass Processing Days_ (2003): 205-206. {{% resource_link "2936637b-8244-492f-81ea-3c928cc067f2" "Pilkington" %}} - First in Glass  
+Ruth, Matthias, and Paolo Dell' Anno. "An Industrial Ecology of the US Glass Industry." _Resources Policy_ 23 (1997): 109-124. Fisher-Cripps, Anthony C., and Richard E. Collins. "Architectural Glazings: Design Standards and Failure Models." _Building and Environment_ 30, no. 1 (1995): 29-40. Walker, John R. "A Cladding Designers Perspective on the Use of Safety Glass in Curtainwall." _Glass Processing Days_ (2003): 205-206. [Pilkington](http://www.pilkington.com/) - First in Glass  
 (Click on "Pilkington and the Flat Glass Industry 2004" under "Downloads".)
 {{< tdclose >}}
 
