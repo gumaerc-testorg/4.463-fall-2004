@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation in two parts. Topics covered include: Integration
   Principles, Structure and the Exterior Envelope, and Integration Case Studies.'
-file: /courses/4-463-building-technology-iii-building-structural-systems-fall-2004/694e98b2d4c6b517e7c0dc962584ce4a_lect6.pdf
+file: /ol-ocw-studio-app/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/694e98b2d4c6b517e7c0dc962584ce4a_lect6.pdf
 file_size: 1487781
 file_type: application/pdf
 learning_resource_types:
